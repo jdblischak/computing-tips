@@ -1,0 +1,7 @@
+The alias command is very useful to create shortcuts to commands. A common one is with the list command.
+
+alias l='ls -lh'
+
+The above command will create an alias for "l". Anytime you type l into the terminal it will be as if you typed ls -lh
+
+ 

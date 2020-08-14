@@ -1,0 +1,3 @@
+Be  careful when you use the -r flag when removing a directory!
+It'll remove everything within that directory includin any 
+subdirectories for good!
