@@ -1,0 +1,1 @@
+When using R, use sessionInfo() to get the versions you are currently using. 
