@@ -1,0 +1,1 @@
+Use Ctrl+K to delete an entire line in nano editor.
