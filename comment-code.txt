@@ -1,0 +1,1 @@
+When you are writing code, be sure to add comments for others and your future self. This way, it will be much easier to understand your code. Also, make sure that your comments are specific and informative.
